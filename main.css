@@ -1,3 +1,7 @@
 body {
-  background: blue;
+  background: darkgrey;
+}
+nav ul {
+  list-style-type: none;
+  display: inline;
 }
